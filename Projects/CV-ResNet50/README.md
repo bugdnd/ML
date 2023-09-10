@@ -3,6 +3,7 @@
 - навыки: Keras
 - ключевые слова: обработка изображений, нейронные сети
 - сферы: бизнес, оффлайн
-- библиотеки:
+
+библиотеки:
 - PIL - Image
 - tensorflow.keras.preprocessing.image - ImageDataGenerator
