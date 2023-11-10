@@ -1,5 +1,4 @@
 # ML
-ML repo
 
 Мои практические проекты, и портфолио, в Machine Learning.
 
